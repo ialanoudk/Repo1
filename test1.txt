@@ -1,10 +1,1 @@
- Volume in drive C is Acer
- Volume Serial Number is 2ADC-EBBF
-
- Directory of C:\Users\ialan\OneDrive\Desktop\MyProjects
-
-06/10/2021  08:32 AM    <DIR>          .
-06/10/2021  08:32 AM    <DIR>          ..
-06/10/2021  08:32 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  118,608,445,440 bytes free
+change 1
